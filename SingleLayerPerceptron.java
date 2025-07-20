@@ -1,0 +1,4 @@
+//SLP 
+//CONTAINS: 1 input layer, 1 output layer
+//SIMPLIST FORM OF NEURAL NETWORK
+//AND GATE
